@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hiteshcodes/static/css/main.abd64e84.css",
+    "main.js": "/hiteshcodes/static/js/main.71874f5d.js",
+    "static/js/787.fad1ebcf.chunk.js": "/hiteshcodes/static/js/787.fad1ebcf.chunk.js",
+    "index.html": "/hiteshcodes/index.html",
+    "main.abd64e84.css.map": "/hiteshcodes/static/css/main.abd64e84.css.map",
+    "main.71874f5d.js.map": "/hiteshcodes/static/js/main.71874f5d.js.map",
+    "787.fad1ebcf.chunk.js.map": "/hiteshcodes/static/js/787.fad1ebcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.71874f5d.js"
+  ]
+}
